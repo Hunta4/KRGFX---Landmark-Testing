@@ -1,0 +1,33 @@
+entity = { 
+	name = "westminster_entity"
+	pdxmesh = "westminster_mesh"
+}
+entity = { 
+	name = "libs_entity"
+	pdxmesh = "libs_mesh"
+}
+entity = { 
+	name = "building_tianenmengate_entity"
+	pdxmesh = "building_tianenmengate_mesh"
+}
+entity = { 
+	name = "building_nanjing_entity"
+	pdxmesh = "building_nanjing_mesh"
+}
+entity = { 
+	name = "building_coluseum_entity"
+	pdxmesh = "building_coluseum_mesh"
+}
+entity = { 
+	name = "building_kremlin_entity"
+	pdxmesh = "building_kremlin_mesh"
+}
+entity = {
+    name = "building_brandenburg_gate_entity"
+    pdxmesh = "building_brandenburg_gate_mesh"
+    }
+}
+entity = { 
+	name = "building_eiffel_entity"
+	pdxmesh = "building_eiffel_mesh"
+}
