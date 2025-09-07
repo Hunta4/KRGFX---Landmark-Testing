@@ -1,9 +1,0 @@
-Graphical_Decisions = {
-	allowed = {
-	    original_tag = GER
-	}
-	
-	decisions={
-	    GER_Flag_Change.1
-    }
-}
