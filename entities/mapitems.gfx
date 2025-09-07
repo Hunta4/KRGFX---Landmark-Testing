@@ -1,0 +1,52 @@
+###Custom Buildings n stuff
+objectTypes = {
+	    pdxmesh = { 
+		    name = "westminster_mesh"
+		    file = "gfx/models/buildings/westminster.mesh"		
+		    scale = 0.4
+		    cull_distance = 500.0
+	    pdxmesh = { 
+		    name = "libs_mesh"
+		    file = "gfx/models/buildings/stat_of_libs/libs.mesh"		
+		    scale = 0.7
+		    cull_distance = 500.0
+	    }
+	    pdxmesh = { 
+		    name = "tianenmengate_mesh"
+		    file = "gfx/models/buildings/forbid_city/tianenmengate.mesh"		
+		    scale = 0.2
+		    cull_distance = 500.0
+	    }
+	    pdxmesh = { 
+		    name = "nanjing_mesh"
+		    file = "gfx/models/buildings/nanjing/nanjing.mesh"		
+		    scale = 1
+		    cull_distance = 500.0
+	    }
+	    pdxmesh = { 
+		    name = "coluseum_mesh"
+		    file = "gfx/models/buildings/colluseum/coluseum.mesh"		
+		    scale = 0.7
+		    cull_distance = 500.0
+	    }
+	    
+	    pdxmesh = { 
+		    name = "kremlin_mesh"
+		    file = "gfx/models/buildings/kremlin.mesh"		
+		    scale = 0.5
+		    cull_distance = 500.0
+	    }
+	    pdxmesh = { 
+		    name = "building_brandenburg_gate_mesh"
+		    file = "gfx/models/buildings/brandenburggate/building_brandenburg_gate.mesh"		
+		    scale = 1.0
+		    cull_distance = 99999.0
+	    }
+	    pdxmesh = { 
+		    name = "eiffel_mesh"
+		    file = "gfx/models/buildings/eiffel/building_eiffel.mesh"		
+		    scale = 0.2
+		    cull_distance = 500.0
+	    }
+    }
+}
