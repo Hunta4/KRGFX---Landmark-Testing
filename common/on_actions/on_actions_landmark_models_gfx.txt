@@ -1,0 +1,16 @@
+on_actions = {
+    on_startup = {
+        effect = {
+            create_entity = {
+                entity = building_brandenburg_gate_entity
+                x = 3012.930
+                y = 0.000
+                z = 1572.230
+                province = 6521
+                rotation = 0.000 -270.000 0.000
+                scale = 100.000000
+                min_zoom = 400.0
+            }
+        }
+    }
+}

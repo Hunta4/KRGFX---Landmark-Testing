@@ -1,0 +1,179 @@
+add_namespace = krmakebuilding
+
+
+
+
+
+country_event = { #houses of parliment and big ben
+	id = krmakebuilding.1
+        hidden = yes
+		fire_only_once = yes
+        is_triggered_only = yes		
+		
+        immediate = {
+	create_entity = { 
+     entity = "westminster2_entity" 
+     id = 101 
+     state = 126
+	 x = 4
+	 y = 1
+	 z = 0 
+     scale = 0.16
+	 min_zoom = 990.0
+        }
+
+
+     }
+}
+
+
+
+
+country_event = { #Statue of Liberty
+	id = krmakebuilding.2
+        hidden = yes
+		fire_only_once = yes
+		is_triggered_only = yes
+    immediate = {
+	create_entity = { 
+     entity = "libs_entity" 
+     id = 104 
+     state = 358
+	 province = 3878
+	 rotation = 0
+	 x = 0
+	 y = -3 
+	 z = 0 
+     scale = 0.08
+	 min_zoom = 990.0
+        }
+
+
+     }
+}
+country_event = { #Tianenmen Gate
+	id = krmakebuilding.3
+        hidden = yes
+		fire_only_once = yes
+		is_triggered_only = yes
+    immediate = {
+	create_entity = { 
+     entity = "tianenmengate_entity" 
+     id = 105 
+     state = 608
+	 province = 9843
+	 rotation = 0
+	 x = 2.6
+	 y = 2 
+	 z = 0 
+     scale = 0.15
+	 min_zoom = 990.0
+        }
+
+
+     }
+}
+
+
+country_event = { #Sun Yat-sen Mausoleum
+	id = krmakebuilding.4
+        hidden = yes
+		fire_only_once = yes
+		is_triggered_only = yes
+    immediate = {
+	create_entity = { 
+     entity = "nanjing_entity" 
+     id = 107 
+     state = 613
+	 province = 11913
+	 rotation = -90
+	 x = 0
+	 y = 1 
+	 z = 0 
+     scale = 0.2
+	 min_zoom = 990.0
+        }
+     }
+}
+country_event = { #Colluseum
+	id = krmakebuilding.5
+        hidden = yes
+		fire_only_once = yes
+		is_triggered_only = yes
+    immediate = {
+	create_entity = { 
+     entity = "coluseum_entity" 
+     id = 108 
+     state = 2
+	 province = 9904
+	 rotation = 0
+	 x = 5
+	 y = 1.5 
+	 z = 0 
+     scale = 0.15
+	 min_zoom = 990.0
+        }
+     }
+}
+country_event = { #Kremlin
+	id = krmakebuilding.6
+        hidden = yes
+		fire_only_once = yes
+		is_triggered_only = yes
+    immediate = {
+	create_entity = { 
+     entity = "kremlin_entity" 
+     id = 109 
+     state = 219
+	 province = 6380
+	 rotation = 0
+	 x = 0
+	 y = 0 
+	 z = 0 
+     scale = 0.17
+	 min_zoom = 990.0
+        }
+     }
+}
+country_event = { #brandenburg gate
+	id = krmakebuilding.7
+        hidden = yes
+		fire_only_once = yes
+		is_triggered_only = yes
+    immediate = {
+	create_entity = { 
+     entity = "brandenburg_gate_entity" 
+     id = 119 
+     state = 64
+	 province = 6521
+	 rotation = -90
+	 x = 1
+	 y = 4 
+	 z = 0 
+     scale = 0.17
+	 min_zoom = 990.0
+        }
+     }
+}
+country_event = { #Eiffel Tower
+	id = krmakebuilding.8
+        hidden = yes
+		fire_only_once = yes
+		is_triggered_only = yes
+    immediate = {
+	create_entity = { 
+     entity = "eiffel_entity" 
+     id = 120 
+     state = 16
+	 province = 11506
+	 rotation = 0
+	 x = 2
+	 y = 0 
+	 z = 0 
+     scale = 0.14
+	 min_zoom = 990.0
+        }
+     }
+}
+
+
